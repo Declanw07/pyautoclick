@@ -127,8 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/modules.xml
-.idea/misc.xml
-.idea/pyautoclick.iml
+
+# PyCharm IDE
+*.idea
